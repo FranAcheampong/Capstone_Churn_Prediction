@@ -3,7 +3,7 @@
   <img src="images/welcome.jpg" alt="ExpressorLogo" width="800">
 </p>
 
-## Project Overview 🚀
+## Project Overview 
 In this project, we aim to find the likelihood of a customer leaving the organization, the key indicators of churn as well as the retention strategies that can be implemented to avert this problem.
 Churn is a one of the biggest problem in the telecom industry. Research has shown that the average monthly churn rate among the top 4 wireless carriers in the US is 1.9% - 2%
 
@@ -29,14 +29,14 @@ This solution will help this telecom company to better serve their customers by 
 - [Meet the team](#contact)
 
 
-## Objectives 🎯 :
+## Objectives
 
-- 📌 Objective 1: Data Exploration
-- 📌 Objective 2: Data Preprocessing
-- 📌 Objective 3: Model Selection and Training
-- 📌 Objective 4: Model Evaluation
-- 📌 Objective 5: Results & Analysis
-- 📌 Objective 6: Deployment and Future Improvements
+- Objective 1: Data Exploration
+- Objective 2: Data Preprocessing
+- Objective 3: Model Selection and Training
+- Objective 4: Model Evaluation
+- Objective 5: Results & Analysis
+- Objective 6: Deployment and Future Improvements
 
 
 ## Summary
@@ -55,7 +55,7 @@ To set up the project environment, follow these steps:
 git clone my_github 
 
 ```bash 
-https://github.com/aliduabubakari/Expresso-Telco-Churn-Classification.git
+https://github.com/FranAcheampong/Capstone_Churn_Prediction.git
 ```
 
 2. Install the required dependencies:
