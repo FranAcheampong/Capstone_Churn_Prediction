@@ -76,7 +76,7 @@ You can copy each command above and run them in your terminal to easily set up t
 
 ## Data
 
-The data used in this project was sourced from the [Zindi](https://zindi.africa/competitions/customer-churn-prediction-challenge-for-azubian).
+The data set used in this project was sourced from the [Zindi](https://zindi.africa/competitions/customer-churn-prediction-challenge-for-azubian).
 
 ## Data set Description
 
