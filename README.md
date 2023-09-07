@@ -165,7 +165,7 @@ These models were evaluated based on their AUC and logloss scores, providing ins
 ## Evaluation
 
 <p align="center">
-  <img src="images/Results2 .png" alt="results" width="600">
+  <img src="images/Results2.png" alt="results" width="600">
 </p>
 
 
