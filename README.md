@@ -198,7 +198,7 @@ Here's a step-by-step process on how to use the [Streamlit App](https://huggingf
 </p>
 
 <p align="center">
-  <img src="images/Enter_Details1.png" alt="input Details2" width="600">
+  <img src="images/Enter_Details2.png" alt="input Details2" width="600">
 </p>
 
 <p align="center">
@@ -207,26 +207,6 @@ Here's a step-by-step process on how to use the [Streamlit App](https://huggingf
 
 <p align="center">
   <img src="images/Interface1.png" alt="Churn Customer2" width="600">
-</p>
-
-<p align="center">
-  <img src="image/Streamlit4.jpg" alt="Streamlit input" width="600">
-</p>
-
-<p align="center">
-  <img src="image/Streamlit5.jpg" alt="Streamlit output" width="600">
-</p>
-
-<p align="center">
-  <img src="image/Streamlit6.png" alt="Streamlit output" width="600">
-</p>
-
-<p align="center">
-  <img src="image/Streamlit7.png" alt="Streamlit output" width="600">
-</p>
-
-<p align="center">
-  <img src="image/Streamlit8.png" alt="Streamlit output" width="600">
 </p>
 
 ## Contribution
@@ -240,6 +220,3 @@ You contribution, critism etc are welcome. We are willing to colaborate with any
 `Azubi Africa`
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=orange)](https://www.linkedin.com/in/francis-acheampong) 
-
-
-
