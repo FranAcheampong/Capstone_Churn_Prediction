@@ -26,7 +26,6 @@ This solution will help this telecom company to better serve their customers by 
 - [Modeling](#modeling)
 - [Evaluation](#evaluation)
 - [Deployment](#deployment)
-- [Meet the team](#contact)
 
 
 ## Objectives
@@ -40,9 +39,9 @@ This solution will help this telecom company to better serve their customers by 
 
 
 ## Summary
-| Code | Name                                                | Published Article                                                                                          |                                                                                              Streamlit App    |                                                                                                |
+| Code | Name                                                | Summary of the work                                                                                          |                                                                                              Streamlit App    |                                                                                                |
 |------|-----------------------------------------------------|------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| Capstone  | Expressor Customer Churn Prediction, ML Approach     | [Medium Article]() |  [Streamlit App]()      |
+| Capstone  | Expressor Customer Churn Prediction, ML Approach     | [Summary_PPT]() |  [Streamlit App](https://huggingface.co/spaces/HOLYBOY/Customer_Churn_App)      |
 
 
 
