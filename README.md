@@ -124,7 +124,6 @@ During the exploratory data analysis (EDA) phase, a comprehensive investigation 
   <img src="images/multivariate.png" alt="multivariate" width="600">
 </p>
 
-
 ### Hypotheses:
 1. Customers with longer tenure are less likely to churn than those with short tenure.
 
@@ -139,7 +138,6 @@ These hypotheses, along with the results of the EDA, contribute to a deeper unde
 2. What type of services offered by the telecom industry (Expressor)
 
 3. What is the average tenure of customers?
-
 
 ## Modeling
 
@@ -159,8 +157,6 @@ These models were evaluated based on their AUC and logloss scores, providing ins
 <p align="center">
   <img src="images/Results1.png" alt="Model comparison" width="600">
 </p>
-
-
 
 ## Evaluation
 
