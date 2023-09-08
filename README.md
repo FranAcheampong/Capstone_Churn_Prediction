@@ -189,21 +189,6 @@ streamlit run streamlitApp.py
 Here's a step-by-step process on how to use the [Streamlit App](https://huggingface.co/spaces/HOLYBOY/Customer_Churn_App) on Huggingface:
 
 
-<p align="center">
-  <img src="images/Enter_Details1.png" alt="input Details1" width="600">
-</p>
-
-<p align="center">
-  <img src="images/Enter_Details2.png" alt="input Details2" width="600">
-</p>
-
-<p align="center">
-  <img src="images/Churn_Customer.png" alt="Churn Customer" width="600">
-</p>
-
-<p align="center">
-  <img src="images/Interface1.png" alt="Churn Customer2" width="600">
-</p>
 
 ## Contribution
 You contribution, critism etc are welcome. We are willing to colaborate with any data analyst/scientist to improve this project. Thank your 
