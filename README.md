@@ -41,7 +41,7 @@ This solution will help this telecom company to better serve their customers by 
 ## Summary
 | Code | Name                                                | Summary of the work                                                                                          |                                                                                              Streamlit App    |                                                                                                |
 |------|-----------------------------------------------------|------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| Capstone  | Expressor Customer Churn Prediction, ML Approach     | [Summary_PPT]() |  [Streamlit App](https://huggingface.co/spaces/HOLYBOY/Customer_Churn_App)      |
+| Capstone  | Expressor Customer Churn Prediction, ML Approach     | [Summary_PPT](https://www.canva.com/design/DAFsXnEpF0Q/SInfoc-gtCJ5Wxc-QYaudg/edit?utm_content=DAFsXnEpF0Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |  [Streamlit App](https://huggingface.co/spaces/HOLYBOY/Customer_Churn_App)      |
 
 
 
@@ -152,17 +152,7 @@ We trained the underlisted six models and evaluated their performance based on A
 - **ComplementNB**
 - **Support Vector Machine (SVM)**
 
-These models were evaluated based on their AUC and logloss scores, providing insights into their performance on the imbalanced dataset. Below is the results;
-
-<p align="center">
-  <img src="images/Results1.png" alt="Model comparison" width="600">
-</p>
-
-## Evaluation
-
-<p align="center">
-  <img src="images/Results2.png" alt="results" width="600">
-</p>
+These models were evaluated based on their AUC and logloss scores, providing insights into their performance on the imbalanced dataset. 
 
 
 Given the imbalanced nature of our dataset, we assessed the models' performance using the AUC metric.
