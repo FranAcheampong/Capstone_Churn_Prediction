@@ -41,7 +41,7 @@ This solution will help this telecom company to better serve their customers by 
 ## Summary
 | Code | Name                                                | Summary of the work                                                                                          |                                                                                              Streamlit App    |                                                                                                |
 |------|-----------------------------------------------------|------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| Capstone  | Expressor Customer Churn Prediction, ML Approach     | [Summary_PPT](https://www.canva.com/design/DAFsXnEpF0Q/SInfoc-gtCJ5Wxc-QYaudg/edit?utm_content=DAFsXnEpF0Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |  [Streamlit App](https://huggingface.co/spaces/HOLYBOY/Customer_Churn_App)      |
+| Capstone  | Expressor Customer Churn Prediction, ML Approach     | [Summary_PPT](https://tinyurl.com/5bpuasbc) |  [Streamlit App](https://huggingface.co/spaces/HOLYBOY/Customer_Churn_App)      |
 
 
 
