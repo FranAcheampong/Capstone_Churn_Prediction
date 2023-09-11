@@ -171,7 +171,7 @@ pip install -r requirements.txt
 ``` 
 To run the demo app (being at the repository root), use the following command:
 ```bash 
-streamlit run streamlitApp.py
+streamlit run StreamlitApp.py
 ```
 
 ### App Execution on Huggingface
@@ -185,9 +185,38 @@ You contribution, critism etc are welcome. We are willing to colaborate with any
 
 ## Contact
 
-`ACHEAMPONG Francis` 
+`1. ACHEAMPONG Francis` 
 
 `Data Analyst`
 `Azubi Africa`
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=orange)](https://www.linkedin.com/in/francis-acheampong) 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=orange)](https://www.linkedin.com/in/francis-acheampong)
+
+`2. Kehinde Afolabi` 
+
+`Data Analyst`
+`Azubi Africa`
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kehinde-afolabi-a14572b1)
+
+`3. Rekia Ouedraogo` 
+
+`Data Analyst`
+`Azubi Africa`
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/rekia-iddrisu-ouedraogo)
+
+`4. Stephen Tetteh Okoe` 
+
+`Data Analyst`
+`Azubi Africa`
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=pink)](https://www.linkedin.com/in/stephen-tetteh-okoe-849b34244)
+
+`5. Mike Kerich` 
+
+`Data Analyst`
+`Azubi Africa`
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=yellow)](https://www.linkedin.com/in/mike-kerich-6952081a0)
+
