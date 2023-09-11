@@ -135,7 +135,6 @@ Alternative: Customers with shorter tenure are more likely to churn
 </p>
 With the over all churn rate of 18.8%, Mid-term tenure contracts or subscriber turn to churn more than all other type of contracts. This is followed by medium-term tenures. Whiles the very short-term contract turn to churn the least. Further investigations needs to be conducted to obtain the right insight because earlier analysis showed that very short-term tenure had very small subscribers or users.
 
-
 2. Customers with lesser income are likely to churn than those who have higher
 Null: Customer with less income are likely to churn
 Alternative: Customers with a bigger income are likely to churn
