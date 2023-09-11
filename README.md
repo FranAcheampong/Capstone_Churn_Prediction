@@ -127,8 +127,8 @@ During the exploratory data analysis (EDA) phase, a comprehensive investigation 
 These hypotheses, along with the results of the EDA, contribute to a deeper understanding of the dataset and provide valuable insights for further analysis and model development.
 
 1. Customers with longer tenure are less likely to churn than those with short tenure.
-Null: Customers with longer tenure are less likely to churn
-Alternative: Customers with shorter tenure are more likely to churn
+- Null: Customers with longer tenure are less likely to churn
+- Alternative: Customers with shorter tenure are more likely to churn
 
 <p align="center">
   <img src="images/Hypothesis1.png" alt="H1" width="600">
@@ -136,8 +136,8 @@ Alternative: Customers with shorter tenure are more likely to churn
 With the over all churn rate of 18.8%, Mid-term tenure contracts or subscriber turn to churn more than all other type of contracts. This is followed by medium-term tenures. Whiles the very short-term contract turn to churn the least. Further investigations needs to be conducted to obtain the right insight because earlier analysis showed that very short-term tenure had very small subscribers or users.
 
 2. Customers with lesser income are likely to churn than those who have higher
-Null: Customer with less income are likely to churn
-Alternative: Customers with a bigger income are likely to churn
+- Null: Customer with less income are likely to churn
+- Alternative: Customers with a bigger income are likely to churn
 <p align="center">
   <img src="images/Hypothesis2.png" alt="H2" width="600">
 </p>
