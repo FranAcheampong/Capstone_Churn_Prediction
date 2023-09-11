@@ -125,19 +125,65 @@ During the exploratory data analysis (EDA) phase, a comprehensive investigation 
 </p>
 
 ### Hypotheses:
-1. Customers with longer tenure are less likely to churn than those with short tenure.
-
-2. Customers with lesser income are likely to churn than those who have higher
-
 These hypotheses, along with the results of the EDA, contribute to a deeper understanding of the dataset and provide valuable insights for further analysis and model development.
 
-### Business Questions
-1. What is the relation of the preditor class (Churn) to other variable
-- Churn rate
-- Churn vrs. Tenure
-2. What type of services offered by the telecom industry (Expressor)
+1. Customers with longer tenure are less likely to churn than those with short tenure.
+Null: Customers with longer tenure are less likely to churn
+Alternative: Customers with shorter tenure are more likely to churn
 
-3. What is the average tenure of customers?
+<p align="center">
+  <img src="images/Hypothesis1.png" alt="H1" width="600">
+</p>
+With the over all churn rate of 18.8%, Mid-term tenure contracts or subscriber turn to churn more than all other type of contracts. This is followed by medium-term tenures. Whiles the very short-term contract turn to churn the least. Further investigations needs to be conducted to obtain the right insight because earlier analysis showed that very short-term tenure had very small subscribers or users.
+
+
+2. Customers with lesser income are likely to churn than those who have higher
+Null: Customer with less income are likely to churn
+Alternative: Customers with a bigger income are likely to churn
+<p align="center">
+  <img src="images/Hypothesis2.png" alt="H2" width="600">
+</p>
+
+Based on the results, there is evidence to reject the null hypothesis. The difference in churn rates between the lower income group and the higher income group is statistically significant.
+
+### Business Questions
+1. What type of services offered by the telecom industry
+<p align="center">
+  <img src="images/Q1.png" alt="Question1" width="600">
+</p>
+The bar chart presentated above indicates that voice related service has the greater share of the dataset. It is followed by data related service, with messaging subscribers been the least of the dataset. Expressor management must first conduct surveys and gather feedback loops to determine why users are patronizing one package than the other
+
+2. What is the overall churn rate for the telecom company during the observed period?
+<p align="center">
+  <img src="images/Q2.png" alt="Question2" width="600">
+</p>
+Based on the pie above it can be concluded that majority of the subscriber dont churn (81.2%). With the average churn rate of 18.8% of the subscribers. Even though the dataset is highly inbalanced, the churn rate is higher than the industry standard of 1.5-2%. Expressor management needs to urgently take measures to curtails this problem.
+
+3. Are there any specific regions or geographic areas with a higher churn rate compared to others?
+<p align="center">
+  <img src="images/Q3.png" alt="Question3" width="600">
+</p>
+The bar plot displays the average churn rates for all the regions.
+
+From the graph, it can be seen that DAKAR is the only region with average churn rate greater than the overall churn rate.
+SEDHIOU is the second highest in term of churn rate as has 5.4% of churn.
+All the other regions are lower than the overall average churn rate.
+
+4. What is the relationship between tunure and churn?
+<p align="center">
+  <img src="images/Q4.png" alt="Question4" width="600">
+</p>
+Long term and very short term term tenures are the two tenures with their churn rate lower than the overall churn rate.
+Medium term, Midterm and short term have churn rate above the overall churn rate.
+This means that Medium to short term tenures turn to churn more
+5. Are customers who have a higher number of on-net calls (ON_NET) less likely to churn?
+<p align="center">
+  <img src="images/Q5.png" alt="Question5" width="600">
+</p>
+The bar plot, put the on net call in to categories starting from 0-100, 101-200, 201-300, 301-400, 401-500 and infinally 500+ and calculates the the numbers of times they make calls in that range. The following are the observations made
+
+201-300, had the majority of calls followed by 0-100
+the other ranges had less than 2%
 
 ## Modeling
 
